@@ -1,15 +1,15 @@
 # Hi there, I'm Yunus Emre! 👋
 
-### 🚀 Aspiring Data & AI Engineer
+###  Aspiring Data & AI Engineer
 I am a 3rd-year Software Engineering student dedicated to mastering the realms of **Data Science**, **Machine Learning**, and **Artificial Intelligence**. My goal is to reach a Junior Data & AI Engineer level within the next 1.5 years.
 
 ---
 
-### 🧠 Problem Solving & Continuous Learning
+###  Problem Solving & Continuous Learning
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🧩 LeetCode Journey</h4>
+      <h4> LeetCode Journey</h4>
       <p>Mastering algorithms and data structures to build efficient AI systems.</p>
       <a href="https://leetcode.com/yunusemreayyildiz/">
         <img src="https://leetcode-stats-six.vercel.app/api?username=yunusemreayyildiz&theme=dark" width="100%" />
@@ -17,7 +17,7 @@ I am a 3rd-year Software Engineering student dedicated to mastering the realms o
       <p><i>Recent Challenges: Two Sum, Palindrome Number, Generate Parentheses.</i></p>
     </td>
     <td width="50%" valign="top">
-      <h4>🎓 Boot.dev Progress</h4>
+      <h4> Boot.dev Progress</h4>
       <p>Building a solid foundation in Backend and Data Engineering.</p>
       <ul>
         <li><b>Track:</b> Data Engineer Career Path</li>
@@ -55,10 +55,10 @@ I am a 3rd-year Software Engineering student dedicated to mastering the realms o
 
 ---
 
-### 📫 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/yunusemreayyildiz/)
-- 📧 [Email](mailto:ayyildizyunusemre54@gmail.com)
-- 🌍 Based in Türkiye
+###  Let's Connect!
+-  [LinkedIn](https://www.linkedin.com/in/yunusemreayyildiz/)
+-  [Email](mailto:ayyildizyunusemre54@gmail.com)
+-  Based in Türkiye
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yunusemreayyildiz&theme=dark" alt="GitHub Streak" />
