@@ -12,7 +12,7 @@ I am a 3rd-year Software Engineering student dedicated to mastering the realms o
       <h4> LeetCode Journey</h4>
       <p>Mastering algorithms and data structures to build efficient AI systems.</p>
       <a href="https://leetcode.com/yunusemreayyildiz/">
-        <img src="https://leetcode-stats-six.vercel.app/api?username=yunusemreayyildiz&theme=dark" width="100%" />
+        <img src="https://leetcode-stats-six.vercel.app/api?username=emreayyildiz&theme=dark" width="100%" />
       </a>
       <p><i>Recent Challenges: Two Sum, Palindrome Number, Generate Parentheses.</i></p>
     </td>
@@ -35,7 +35,7 @@ I am a 3rd-year Software Engineering student dedicated to mastering the realms o
 * **ML Ensemble & Neural Networks:** Advanced implementation of Bagging, Boosting, and MLP architectures.
 * **RL-Drive-MultiAgent:** A 50-agent navigation system built with Q-Learning from scratch.
 * **Computer Price Prediction:** Machine learning classification and regression models using Kaggle datasets.
-* **SportBuddy:** A real-time social sports matchmaking app built with **Flutter** and **Firebase**.
+* **CloudFit:** A real-time social sports matchmaking app built with **Flutter** and **Firebase**.
 
 ---
 
@@ -49,9 +49,8 @@ I am a 3rd-year Software Engineering student dedicated to mastering the realms o
 
 ###  What I'm Up To
 *  Currently refining my **TÜBİTAK** project proposal.
-*  Building a game in **Godot** featuring Turkish coffee reading mechanics.
 *  Preparing for Data Science finals with a focus on PCA and regression in R.
-*  **Fun Fact:** I'm a TEV scholar transitioning from academic goals to industry-ready AI engineering.
+*  I'm a TEV scholar transitioning from academic goals to industry-ready AI engineering.
 
 ---
 
