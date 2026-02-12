@@ -11,7 +11,7 @@ I am a 3rd-year Software Engineering student dedicated to mastering the realms o
     <td width="50%" valign="top">
       <h4> LeetCode Journey</h4>
       <p>Mastering algorithms and data structures to build efficient AI systems.</p>
-      <a href="https://leetcode.com/yunusemreayyildiz/">
+      <a href="https://leetcode.com/emreayyildiz/">
         <img src="https://leetcode-stats-six.vercel.app/api?username=emreayyildiz&theme=dark" width="100%" />
       </a>
       <p><i>Recent Challenges: Two Sum, Palindrome Number, Generate Parentheses.</i></p>
